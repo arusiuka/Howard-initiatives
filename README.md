@@ -1,6 +1,7 @@
 # Howard-initiatives
 
 Howard county parks and planning 
+
 Chike Egbufoama. (2015). 2015 Howard County Parks and Planning. (Version 1.0). Available From Github.com https://github.com/arusiuka/Howard-initiatives/edit/master/README.md
 
 This is the dataset created for the INFM600 Information Organisation assignment
